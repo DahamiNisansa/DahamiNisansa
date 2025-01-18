@@ -61,7 +61,7 @@ ___
 ___
   
 <div align="left">
-  <img align="right" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="430" height="380" />
+  <img align="right" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="350" height="300" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahaminisansa&show_icons=true&locale=en&layout=compact" alt="dahaminisansa" />
   <br>
   <br>
