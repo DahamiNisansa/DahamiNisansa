@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dahami Nisansa</h1>
-<h3 align="center">An undergraduate student at University of Moratuwa and Trainee Software Engineer at ICET</h3>
+<h3 align="center">An undergraduate student at University of Moratuwa
+  Trainee Software Engineer at ICET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dahaminisansa&label=Profile%20views&color=0e75b6&style=flat" alt="dahaminisansa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dahaminisansa" alt="dahaminisansa" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Final Year Project**
 
