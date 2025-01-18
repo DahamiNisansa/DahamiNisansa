@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dahami Nisansa</h1>
-<h3 align="center">An undergraduate student at University of Moratuwa
-  Trainee Software Engineer at ICET</h3>
+<h3 align="center">An undergraduate student at University of Moratuwa </h3>
+<h3align="center">Trainee Software Engineer at ICET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dahaminisansa&label=Profile%20views&color=0e75b6&style=flat" alt="dahaminisansa" /> </p>
 
