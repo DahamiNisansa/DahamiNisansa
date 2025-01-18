@@ -55,6 +55,7 @@ ___
 
 ### 🤝 &nbsp; Connect with Me
 <p align="left">
+<a href="https://www.linkedin.com/in/dahami-nisansa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
 </br>
 
