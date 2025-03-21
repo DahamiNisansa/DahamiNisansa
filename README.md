@@ -24,7 +24,7 @@ __
 
 - 🤔 I’m looking for help **with anything I am currently learning! 😅**
 
-- ⚡ Fun fact **I love Dancing Singing, Reading and Watching Movies**
+- ⚡ Fun fact **I love Dancing, Singing, Reading and Watching Movies**
 </br>
 
 ### 🛠 &nbsp; Languages and Tools
