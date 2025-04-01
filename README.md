@@ -14,7 +14,7 @@ __
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-- 🔭 I’m currently working on **My Final Year Project**
+- 🔭 I’ currently working on **My Final Year Project**
 
 - 🌱 I’m currently learning **Full Stack Development, Spring boot, React**
 
