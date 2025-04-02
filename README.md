@@ -12,7 +12,7 @@ __
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 💡  I like to explore new technologies and develop software solutions and quick hacks
 
 - 🔭 I’m currently working on **My Final Year Project**
 
